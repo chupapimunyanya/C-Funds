@@ -1,2 +1,2 @@
-# C-Funds
+# C#Funds
 IT courses projects
